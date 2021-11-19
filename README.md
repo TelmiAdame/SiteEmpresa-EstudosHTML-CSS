@@ -16,18 +16,15 @@ Nesse site foram desenvolvidas as seguintes habilidades:
 - Responsividade (em construção)
 
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/44340715/142415470-8defb242-4735-4569-8495-09596e239571.PNG" width = "850em">
-<p>Para ter acesso a todas as imagens do projeto clique <a href = "https://drive.google.com/drive/folders/1aRTDGkxL4O53XDh9doK90_D4lEn0W07c?usp=sharing" >**AQUI**<a><p>
-</div>
+<img src = "https://user-images.githubusercontent.com/44340715/142641280-b1829f87-b5de-41ae-a56a-415ca0a8f3fc.png" width = "850em">
 
 **Clonando repositório**
 ```
-$ git clone https://github.com/TelmiAdame/Projeto-Loja-em-Angular-e-Exercicios-JS.git
-$ cd angular
+$ git clone https://github.com/TelmiAdame/SiteEmpresa-EstudosHTML-CSS.git
 ```
 
 **Acessos URL**
-- URL Projeto: http://localhost:4200
-- URL Server: http://localhost: 3001
+ - VS code >>> index.html >>> botão direito mouse >>> Open with live server
+ - URL: http://127.0.0.1:5501/index.html#
   
  ##
